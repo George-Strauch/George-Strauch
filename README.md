@@ -10,9 +10,6 @@
 
 ---
 
-### I focus on architecture & high-level design and make LLMs do the grunt work <br>
-
-
 
 
 
