@@ -10,28 +10,35 @@
 
 ---
 
-`architecture & high-level design` · `AI-augmented development` · `4+ years at Charter Communications` · `B.S. Applied Mathematics & Computer Science`
+### I focus on architecture & high-level design and make LLMs do the grunt work <br>
 
----
 
-### Tech Stack
+
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+
 </p>
 
----
+[//]: # (---)
 
-### Featured Projects
+[//]: # ()
+[//]: # (### Featured Projects)
 
-| Project | Description |
-|---------|-------------|
-| [**react-website-template**](https://github.com/George-Strauch/react-website-template) | A clean starter template for React websites |
-| [**DiscordBot**](https://github.com/George-Strauch/DiscordBot) | Discord bot with third-party API integration |
+[//]: # ()
+[//]: # (| Project | Description |)
+
+[//]: # (|---------|-------------|)
+
+[//]: # (| [**react-website-template**]&#40;https://github.com/George-Strauch/react-website-template&#41; | A clean starter template for React websites |)
+
+[//]: # (| [**DiscordBot**]&#40;https://github.com/George-Strauch/DiscordBot&#41; | Discord bot with third-party API integration |)
