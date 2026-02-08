@@ -10,9 +10,7 @@
 
 ---
 
-### About Me
-
-Software engineer focused on architecture and high-level design. I leverage AI agents to move fast and ship. 4+ years at **Charter Communications** building network automation systems. B.S. in **Applied Mathematics & Computer Science** from Texas State University.
+`architecture & high-level design` · `AI-augmented development` · `4+ years at Charter Communications` · `B.S. Applied Mathematics & Computer Science`
 
 ---
 
