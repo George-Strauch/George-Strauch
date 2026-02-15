@@ -26,16 +26,12 @@
 
 </p>
 
-[//]: # (---)
+---
 
-[//]: # ()
-[//]: # (### Featured Projects)
+### Featured Projects
 
-[//]: # ()
-[//]: # (| Project | Description |)
-
-[//]: # (|---------|-------------|)
-
-[//]: # (| [**react-website-template**]&#40;https://github.com/George-Strauch/react-website-template&#41; | A clean starter template for React websites |)
-
-[//]: # (| [**DiscordBot**]&#40;https://github.com/George-Strauch/DiscordBot&#41; | Discord bot with third-party API integration |)
+| Project | Description |
+|---------|-------------|
+| [**Chorus**](https://github.com/George-Strauch/Chorus) | Multi-agent AI system that transforms Discord channels into autonomous agents with dedicated workspaces, git repos, and configurable tool access |
+| [**react-website-template**](https://github.com/George-Strauch/react-website-template) | A clean starter template for React websites |
+| [**DiscordBot**](https://github.com/George-Strauch/DiscordBot) | Discord bot with third-party API integration |
