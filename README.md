@@ -1,35 +1,34 @@
-<h1 align="center">George Strauch</h1>
-<h3 align="center">Software Engineer &bull; Austin, TX</h3>
+# George Strauch
 
-<p align="center">
-  <a href="https://george-strauch.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-george--strauch.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
+Software engineer in Austin, Texas. I've worked on network automation at Charter Communications since 2022.
 
-</p>
+## Career
+
+### Charter Communications, 2022 to present
+
+**Software Engineer, Network Automation**
+
+I design and build internal systems that automate network equipment design and the configuration that follows an install. I own the architecture of these tools across the back-end services, the APIs and the interfaces people use. I gather requirements directly from the field technicians and network engineers who rely on them.
+
+I architected and lead the automation for Cisco Meraki device configuration. It runs in production at locations nationwide and is still in active development.
+
+The work is mostly Python (Django and Flask), with React and Angular front ends.
+
+### Texas State University, 2021
+
+**Undergraduate researcher and machine learning grader**
+
+I applied machine learning to computer vision problems. One was detecting, locating and classifying small boats in video for automated early warning. The other was extracting visual features for object search and retrieval. The maritime work was presented at the UMBC Big Data REU symposium and [published through IEEE](https://ieeexplore.ieee.org/document/9671274). I also graded for the undergraduate machine learning course, managed its GitHub repositories and helped plan the curriculum.
+
+### Education
+
+- B.S. in Applied Mathematics and Computer Science, Texas State University, 2018 to 2021
+- Associate's degree in Computer Science, Northwest Vista College, 2016 to 2018
+
+## How I work
+
+A large share of my code now starts as a draft from a language model. I use LLMs and coding agents to write and refactor code, find my way around unfamiliar codebases, research problems and write tests. They're fast, and they can be wrong in ways that look right. So more of my job is now deciding what to build and giving the model the context and constraints it needs. Then I read what comes back carefully and own the result.
 
 ---
 
-
-
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Chorus**](https://github.com/George-Strauch/Chorus) | Multi-agent AI system that transforms Discord channels into autonomous agents with dedicated workspaces, git repos, and configurable tool access |
+[george-strauch.github.io](https://george-strauch.github.io)
